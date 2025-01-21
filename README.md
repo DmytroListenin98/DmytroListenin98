@@ -20,7 +20,7 @@
 
 ##
 ##
-# 🔱 about me 
+# 🔱 About me 
 ⚜️I am a passionate and motivated iOS developer with experience in building apps using Swift, SwiftUI, and UIKit. I enjoy crafting user-friendly and functional applications while continuously improving my coding skills and exploring new technologies.
 
 🔆Currently, I am focused on creating innovative projects to enhance my portfolio and demonstrate my abilities to potential employers. My goal is to work as part of a dynamic team, contribute to impactful projects, and eventually grow into a senior developer role.
