@@ -44,21 +44,21 @@ Before specializing in iOS development, I explored various programming languages
 
 __
 
-![Java](https://img.shields.io/badge/-Java-090909?style-for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/-Java-9EA3DB?style-for-the-badge&logo=Java)
 
 Java: Learned basic syntax and object-oriented programming concepts. Although some time has passed, I believe I could quickly refresh this knowledge if needed.
 
 __
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript)
-
-JavaScript: Developed small web applications and interactive elements.
-__
-
 ![CSS](https://img.shields.io/badge/-CSS-090909?style-for-the-badge&logo=CSS)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style-for-the-badge&logo=HTML)
 
+JavaScript: Developed small web applications and interactive elements.
+
 HTML & CSS: Practiced creating responsive designs and web layouts.
+
+__
 
 This experience has provided me with a strong foundation in programming concepts, which I now leverage in my journey as an iOS developer.
 ##
