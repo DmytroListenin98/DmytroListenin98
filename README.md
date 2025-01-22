@@ -4,19 +4,30 @@
 
 # 🔱 Languages and Tools
 
-![Flutter](https://img.shields.io/badge/-Swift-090909?style-for-the-badge&logo=Swift)
-![Flutter](https://img.shields.io/badge/-SwiftUI-090909?style-for-the-badge&logo=Swift&logoColor=675CFF)
-![Flutter](https://img.shields.io/badge/-UIKit-090909?style-for-the-badge&logo=UIKit&logoColor=675CFF)
-![Flutter](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=Git)
-![Flutter](https://img.shields.io/badge/-AVFoundation-090909?style-for-the-badge&logo=Apple)
+![Swift](https://img.shields.io/badge/-Swift-090909?style-for-the-badge&logo=Swift)
+
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-090909?style-for-the-badge&logo=Swift&logoColor=675CFF)
+![UIKit](https://img.shields.io/badge/-UIKit-090909?style-for-the-badge&logo=UIKit&logoColor=675CFF)
+![AVFoundation](https://img.shields.io/badge/-AVFoundation-090909?style-for-the-badge&logo=Framework)
+![Combine](https://img.shields.io/badge/-Combine-090909?style-for-the-badge&logo=Framework)
+![XCTest](https://img.shields.io/badge/-XCTest-090909?style-for-the-badge&logo=Framework)
+
+![Xcode](https://img.shields.io/badge/-Xcode-090909?style-for-the-badge&logo=Xcode)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-090909?style-for-the-badge&logo=VisualStudioCode)
+![IntellJIDEA](https://img.shields.io/badge/-IntellJIDEA-090909?style-for-the-badge&logo=IntellJIDEA)
+
+![Git](https://img.shields.io/badge/-Git-090909?style-for-the-badge&logo=Git)
 
 ##
 
 # 🔱 Other Skills, App Architecture
 
-![Flutter](https://img.shields.io/badge/-MVVM-090909?style-for-the-badge&logo=Swift&logoColor=675CFF)
-![Flutter](https://img.shields.io/badge/-MVC-090909?style-for-the-badge&logo=UIKit)
-![Flutter](https://img.shields.io/badge/-AutoLayout-090909?style-for-the-badge&logo=UIKit&logoColor=F18F50)
+![MVVM](https://img.shields.io/badge/-MVVM-090909?style-for-the-badge&logo=Swift&logoColor=675CFF)
+![MVC](https://img.shields.io/badge/-MVC-090909?style-for-the-badge&logo=UIKit)
+![AutoLayout](https://img.shields.io/badge/-AutoLayout-090909?style-for-the-badge&logo=UIKit&logoColor=F18F50)
+
+
+
 
 ##
 ##
@@ -26,7 +37,30 @@
 🔆Currently, I am focused on creating innovative projects to enhance my portfolio and demonstrate my abilities to potential employers. My goal is to work as part of a dynamic team, contribute to impactful projects, and eventually grow into a senior developer role.
 
 🔅When I’m not coding, I enjoy exploring technology trends, solving challenges, and learning about product design to improve the user experience in my apps.
+##
 
+# My Background
+Before specializing in iOS development, I explored various programming languages and technologies, including:
+
+__
+
+![Java](https://img.shields.io/badge/-Java-090909?style-for-the-badge&logo=Java)
+
+Java: Learned basic syntax and object-oriented programming concepts. Although some time has passed, I believe I could quickly refresh this knowledge if needed.
+
+__
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style-for-the-badge&logo=JavaScript)
+
+JavaScript: Developed small web applications and interactive elements.
+__
+
+![CSS](https://img.shields.io/badge/-CSS-090909?style-for-the-badge&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML-090909?style-for-the-badge&logo=HTML)
+
+HTML & CSS: Practiced creating responsive designs and web layouts.
+
+This experience has provided me with a strong foundation in programming concepts, which I now leverage in my journey as an iOS developer.
 ##
 
 
